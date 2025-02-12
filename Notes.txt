@@ -1,0 +1,13 @@
+App write npm package helps in giving us sdk which helps in requesting from frontend to appwrite servers.
+
+Vendor Lock IN : We have to write code in such a way that if tomorrow you need to extract the authentication system from the app of app write , it would not cause any problem to app making the app run smooth
+
+There is a concept of Services which is nothing but a class but we defined method there , with abstraction we only care what method do not how method is working , we use data to use the method.
+
+AuthLayout is a mechanism through which you protect your pages and routes
+
+CORS is browser security , browser doesn't support cross origin request
+
+TODO :
+Add Post Slice
+
