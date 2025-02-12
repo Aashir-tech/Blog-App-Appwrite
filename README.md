@@ -32,11 +32,14 @@ Enabled seamless blog creation and interaction, enhancing user engagement and co
    ```
 
 2. Install dependencies:
-  ```sh
-  npm install
-  ```
+   ```sh
+   npm install
+   ```
+   
 3. Configure Appwrite settings Project ID, Database ID, Collections in .env or directly in your code.
+   
 4. Run the application
    ```sh
    npm start
-  ```
+   ```
+   
